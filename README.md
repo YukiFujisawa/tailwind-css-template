@@ -23,9 +23,11 @@
 
 ## 参考資料
 
-TailwindCSS の公式ドキュメント
-https://tailwindcss.jp/docs/container
+1. [TailwindCSS の公式ドキュメント](https://tailwindcss.jp/docs/container)
+   - 公式ドキュメントは必須で、例えば、`width`は、TailwindCSS ではどのように記載するのか、検索キーワードに入れてみてください。
+2. [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
+   - 通常のCSSプロパティをTailwindCSSではどのように記載するのか、こちらでも簡単に検索することができます。
 
-公式ドキュメントは必須で、例えば、`width`は、TailwindCSS ではどのように記載するのか、検索キーワードに入れてみてください。
 
-TailwindCSS での使い方を調べることができます。
+
+
