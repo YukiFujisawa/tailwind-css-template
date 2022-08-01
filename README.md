@@ -10,7 +10,7 @@
 
 以下 URL に開発環境手順をまとめましたのでご参照ください。
 
-[【入門者向け】Tailwind CSS 開発環境を構築しよう](https://www.notion.so/wywy-llc/Tailwind-CSS-5967ff963d0749289f37871791a6282d)
+[【入門者向け】Tailwind CSS 開発環境を構築しよう](https://wywy.jp/blogs/tailwind-css-build-devenv)
 
 ## 使い方
 
