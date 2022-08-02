@@ -2,7 +2,8 @@
 
 - Tailwind CSS 開発用のテンプレートです。
 - package.json など必要な設定が揃っています。
-- Forkしてご活用ください！
+- [Use this templeteボタン](https://github.com/YukiFujisawa/tailwind-css-templete/generate)を実行すると、自分のリポジトリにスムーズにコピーできます。
+   - ![Use this templeteボタン](https://res.cloudinary.com/wywy-llc/image/upload/v1659475264/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2022-08-02_9.43.44_ksfami.png)
 
 ## 開発環境構築の方法
 
