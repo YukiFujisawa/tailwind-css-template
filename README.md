@@ -1,4 +1,4 @@
-# tailwind-css-templete
+# tailwind-css-template
 
 - Tailwind CSS 開発用のテンプレートです。
 - package.json など必要な設定が揃っています。
